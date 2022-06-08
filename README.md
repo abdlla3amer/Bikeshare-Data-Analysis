@@ -47,7 +47,7 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 - washington.csv (Data base file).
 
 
-## Datasets Desribrtion:
+## Datasets Description:
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 - Start Time (e.g., 2017-01-01 00:07:57)
 - End Time (e.g., 2017-01-01 00:20:53)
