@@ -8,8 +8,8 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 
 ## Criteria:
 #### A- Interactive program
-1- User can choose which data set to display analysis for.
-2- User can choose the month and day of week to display analysis for.
+- User can choose which data set to display analysis for.
+- User can choose the month and day of week to display analysis for.
 
 
 #### B- Statisics to be displayes
