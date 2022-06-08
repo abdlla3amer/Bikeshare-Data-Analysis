@@ -13,47 +13,47 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 
 
 #### B- Statisics to be displayes
-    1- Popular times of travel:
+  1- Popular times of travel:
     - Most common month
     - Most common day of week.
     - Most common hour of day.<br>
-2- Popular stations and trip:
-- Most common start station.
-- Most common end station.
-- Most frequent combination of start station and end station.<br>
-3- Trip duration:
-- Total travel time.
-- Average travel time.<br>
-4- User info:
-- Counts of each user type.
-- Counts of each gender (only available for NYC and Chicago).
-- Earliest, most recent, most common year of birth (only available for NYC and Chicago).<br>
+  2- Popular stations and trip:
+    - Most common start station.
+    - Most common end station.
+    - Most frequent combination of start station and end station.<br>
+  3- Trip duration:
+    - Total travel time.
+    - Average travel time.<br>
+  4- User info:
+    - Counts of each user type.
+    - Counts of each gender (only available for NYC and Chicago).
+    - Earliest, most recent, most common year of birth (only available for NYC and Chicago).<br>
     
     
 #### C- Exceptions handling
-- The program should handle any input from the user without crashing.
+  - The program should handle any input from the user without crashing.
 
 
 ## D- Files:
-1- bikeshare_data_analysis.py
-- Source Code.
-2- chicago.csv
-- Data base file.
-3- new_york_city.csv
-- Data base file.
-4- washington.csv
-- Data base file.
+  1- bikeshare_data_analysis.py
+    - Source Code.<br>
+  2- chicago.csv
+    - Data base file.<br>
+  3- new_york_city.csv
+    - Data base file.<br>
+  4- washington.csv
+    - Data base file.<br>
 
 
 ## E- Libraries used in the code:
-- pandas
-- numpy
-- time
-- datetime
+  - pandas
+  - numpy
+  - time
+  - datetime
   
   
 ## F- Run locally:
-1- Download all files (bikeshare_data_analysis, chicago.csv, new_york_city.csv, washington.csv)
-2- Make sure that all files are in the same folder.
-3- From the command line:
-python bikeshare_data_analysis.py
+  1- Download all files (bikeshare_data_analysis, chicago.csv, new_york_city.csv, washington.csv)<br>
+  2- Make sure that all files are in the same folder.<br>
+  3- From the command line<br>
+  - python bikeshare_data_analysis.py
