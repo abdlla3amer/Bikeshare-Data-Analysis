@@ -17,17 +17,20 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 - Most common month
 - Most common day of week.
 - Most common hour of day.<br>
+
 2- Popular stations and trip:
 - Most common start station.
 - Most common end station.
 - Most frequent combination of start station and end station.<br>
+
 3- Trip duration:
 - Total travel time.
 - Average travel time.<br>
+
 4- User info:
 - Counts of each user type.
 - Counts of each gender (only available for NYC and Chicago).
-- Earliest, most recent, most common year of birth (only available for NYC and Chicago).<br>
+- Earliest, most recent, most common year of birth (only available for NYC and Chicago).
     
     
 #### C- Exceptions handling
@@ -37,10 +40,13 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 ## D- Files:
 1- bikeshare_data_analysis.py
 - Source Code.<br>
+
 2- chicago.csv
 - Data base file.<br>
+
 3- new_york_city.csv
 - Data base file.<br>
+
 4- washington.csv
 - Data base file.<br>
 
