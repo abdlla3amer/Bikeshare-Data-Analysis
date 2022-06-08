@@ -13,21 +13,21 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 
 
 #### B- Statisics to be displayes
-1- Popular times of travel:
-- Most common month
-- Most common day of week.
-- Most common hour of day.
+    1- Popular times of travel:
+    - Most common month
+    - Most common day of week.
+    - Most common hour of day.<br>
 2- Popular stations and trip:
 - Most common start station.
 - Most common end station.
-- Most frequent combination of start station and end station.
+- Most frequent combination of start station and end station.<br>
 3- Trip duration:
 - Total travel time.
-- Average travel time.
+- Average travel time.<br>
 4- User info:
 - Counts of each user type.
 - Counts of each gender (only available for NYC and Chicago).
-- Earliest, most recent, most common year of birth (only available for NYC and Chicago).
+- Earliest, most recent, most common year of birth (only available for NYC and Chicago).<br>
     
     
 #### C- Exceptions handling
