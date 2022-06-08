@@ -12,7 +12,7 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 2- User can choose the month and day of week to display analysis for.<br>
 
 
-#### B- Statisics to be displayes
+#### B- Statistics to be displayes
 1- Popular times of travel:
 - Most common month
 - Most common day of week.
@@ -61,5 +61,5 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 ## F- Run locally:
 1- Download all files (bikeshare_data_analysis, chicago.csv, new_york_city.csv, washington.csv)<br>
 2- Make sure that all files are in the same folder.<br>
-3- From the command line
-- python bikeshare_data_analysis.py
+3- From the command line<br>
+python bikeshare_data_analysis.py
