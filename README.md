@@ -37,28 +37,39 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
 - The program should handle any input from the user without crashing.
 
 
-## D- Files:
+## Files:
 1- bikeshare_data_analysis.py
 - Source Code.<br>
 
-2- chicago.csv
-- Data base file.<br>
-
-3- new_york_city.csv
-- Data base file.<br>
-
-4- washington.csv
-- Data base file.<br>
+2- datasets.rar:
+- chicago.csv (Data base file).
+- new_york_city.csv (Data base file).
+- washington.csv (Data base file).
 
 
-## E- Libraries used in the code:
+## Datasets Desribrtion:
+Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+- Start Time (e.g., 2017-01-01 00:07:57)
+- End Time (e.g., 2017-01-01 00:20:53)
+- Trip Duration (in seconds - e.g., 776)
+- Start Station (e.g., Broadway & Barry Ave)
+- End Station (e.g., Sedgwick St & North Ave)
+- User Type (Subscriber or Customer)<br><br>
+*The Chicago and New York City files also have the following two columns:*
+- Gender
+- Birth Year
+
+![image](https://user-images.githubusercontent.com/100201370/172537744-def795fd-be22-47ed-84e3-bc0b47af4072.png)
+
+
+## Libraries used in the code:
 - pandas
 - numpy
 - time
 - datetime
   
   
-## F- Run locally:
+## Run locally:
 1- Download all files (bikeshare_data_analysis, chicago.csv, new_york_city.csv, washington.csv)<br>
 2- Make sure that all files are in the same folder.<br>
 3- From the command line<br>
