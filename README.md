@@ -26,6 +26,8 @@ Using Python, The purpose of this project is to use data provided by [Motivate](
     •	Counts of each user type.
     •	Counts of each gender (only available for NYC and Chicago).
     •	Earliest, most recent, most common year of birth (only available for NYC and Chicago).
+    
+    
 #### C- Exceptions handling
   •	The program should handle any input from the user without crashing.
 
